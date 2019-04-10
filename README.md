@@ -16,5 +16,5 @@ Hoi, ik studeer cmd op mamdt en hier typ ik nu voor de eerste keer een readme. :
 
 ## opsomming 3 hyperlinks:
 1. http://student-1345028bosm.mamdt.com
-2. 
+2. https://cindyalberdina.github.io/minor-dataviz-opdracht-11/
 3. http://student-1636103tehu.mamdt.com
